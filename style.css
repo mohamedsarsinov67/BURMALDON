@@ -1,0 +1,16 @@
+header{
+    background-color:rgb(242, 174, 186);
+    width: 200000px;
+    height: 200px;
+    
+}
+main{
+    flex-grow: 1;
+    
+}
+.vhod{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 0px 0px 0px 0px;
+}
